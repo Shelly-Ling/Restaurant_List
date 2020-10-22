@@ -10,18 +10,18 @@
 - Node.js: v10.15.0
 - Express: 4.17.1
 - Express-Handlebars: 5.1.0
-- nodemon: 2.0.6
+- Nodemon: 2.0.6
 
 ### Executing
 1.使用git或cmd，Clone此專案到本機電腦
 
 ```
-git clone
+git clone https://github.com/Shelly-Ling/restaurant_list.git
 ```
 2.打開終端機切換到restaurant資料夾
 
 ```
-cd Restaurant_list
+cd restaurant_list
 ```
 3.安裝相關套件
 
